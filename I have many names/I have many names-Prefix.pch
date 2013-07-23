@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'I have many names' target in the 'I have many names' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif
