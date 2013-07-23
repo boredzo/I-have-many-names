@@ -265,6 +265,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = "Executable-";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "I have many names/I have many names-Prefix.pch";
 				INFOPLIST_FILE = "I have many names/I have many names-Info.plist";
@@ -277,6 +278,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = "Executable-";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "I have many names/I have many names-Prefix.pch";
 				INFOPLIST_FILE = "I have many names/I have many names-Info.plist";
